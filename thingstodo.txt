@@ -1,0 +1,13 @@
+SMOOTH SCROLLING :✅
+    Using Locomotive - CSS and JS from LOCOMOTIVE GITHUB and LOCOMOTIVE CDN
+        STeps:
+            attach loco scroll CSS✅
+            attach locomotive scroll min js✅
+            some code from loco github for js✅
+
+
+
+GSAP:
+    STEPS:
+        attach gsap
+SCROLL TRIGGER
